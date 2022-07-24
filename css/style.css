@@ -293,7 +293,7 @@ section {
 }
 
 .swiper-pagination-bullet-active {
-  background-color: var(--complimentary-background);
+  background-color: var(--text-color);
 }
 
 .category .slide {
