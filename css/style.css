@@ -10,13 +10,12 @@
   --light-bg: #f5f5f5;
   --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
 
-  --main-bg : #12232E;
-  --text-color:#eef8f8;
-  --complimentary-background:#007cc7;
+  --main-bg: #12232e;
+  --text-color: #eef8f8;
+  --complimentary-background: #007cc7;
   --blue-btn: #4da8da;
-  --black-btn:#203647;
+  --black-btn: #203647;
   --border: 0.2rem solid var(--main-bg);
-
 }
 
 * {
