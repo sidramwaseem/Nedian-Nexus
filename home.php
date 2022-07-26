@@ -32,8 +32,8 @@ include 'components/wishlist_cart.php';
    <!-- <link rel="stylesheet" href="./css/style.css"> -->
 
    <style>
-  <?php include "css/style.css" ?>
-</style>
+      <?php include "css/style.css" ?>
+   </style>
 </head>
 
 <body>
