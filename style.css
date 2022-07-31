@@ -320,7 +320,9 @@ section {
 .category .slide:hover h3 {
   color: var(--text-color);
 }
-
+.fa-solid{
+  color: var(--main-bg);
+}
 .category .slide i {
   height: 7rem;
   width: 100%;
