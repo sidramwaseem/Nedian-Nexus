@@ -309,15 +309,19 @@ section {
   background-color: var(--main-bg);
 }
 
-.category .slide:hover img {
-  filter: invert();
+.category .slide:hover i{
+  color: var(--text-color);
+}
+
+.category i{
+  color: #000;
 }
 
 .category .slide:hover h3 {
   color: var(--text-color);
 }
 
-.category .slide img {
+.category .slide i {
   height: 7rem;
   width: 100%;
   object-fit: contain;
