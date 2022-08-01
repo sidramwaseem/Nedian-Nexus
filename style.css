@@ -335,6 +335,7 @@ section {
   font-size: 2rem;
   color: var(--main-bg);
   user-select: none;
+  margin-top: 2rem;
 }
 
 .home-products .slide {
