@@ -15,7 +15,7 @@
 
    <section class="flex">
 
-      <a href="home.php" class="logo">Nedian Nexus</a>
+      <a href="home.php" class="logo">Nedian Nexus.</a>
 
       <nav class="navbar">
          <a href="home.php">HOME</a>
