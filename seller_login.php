@@ -54,12 +54,12 @@ if(isset($_POST['submit'])){
 <section class="form-container">
 
    <form  action="" method="post">
-      <h3>login now</h3>
-      <input type="email" name="email" required placeholder="enter your email:@cloud.neduet.edu.pk" pattern=".+@cloud.neduet.edu.pk" maxlength="500"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
-      <input type="password" name="pass" required placeholder="enter your password" maxlength="20"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
+      <h3>Login now</h3>
+      <input type="email" name="email" required placeholder="email@cloud.neduet.edu.pk" pattern=".+@cloud.neduet.edu.pk" maxlength="500"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
+      <input type="password" name="pass" required placeholder="Enter your password" maxlength="20"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
       <a href="dashboard.php" class="btn">Login In</a>     
-      <p>don't have an account?</p>
-      <a href="user_register.php" class="option-btn">register now</a>
+      <p>Don't have an account?</p>
+      <a href="user_register.php" class="option-btn">Register now</a>
    </form>
 
 </section>
