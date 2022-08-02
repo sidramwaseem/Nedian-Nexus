@@ -59,9 +59,9 @@ if(isset($_POST['submit'])){
    <form action="admin.php" method="post">
       <h3>login now</h3>
       <p>username = <span>admin</span> & password = <span>111</span></p>
-      <input type="name" name="name" required placeholder="enter your username" maxlength="20"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
-      <input type="password" name="pass" required placeholder="enter your password" maxlength="20"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
-      <input type="submit" value="login now" class="btn" name="submit">
+      <input type="name" name="name" required placeholder="Enter your username" maxlength="20"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
+      <input type="password" name="pass" required placeholder="Enter your password" maxlength="20"  class="box" oninput="this.value = this.value.replace(/\s/g, '')">
+      <input type="submit" value="Login now" class="btn" name="submit">
    </form>
 
 </section>
