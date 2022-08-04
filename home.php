@@ -84,32 +84,32 @@ include 'wishlist_cart.php';
 
          <div class="swiper-wrapper">
 
-            <a href="category.php?category=laptop" class="swiper-slide slide">
+            <a href="category.php?category=Show pieces" class="swiper-slide slide">
             <i class="fa-solid fa-fan fa-9x"></i>
                <h3>Show pieces</h3>
             </a>
 
-            <a href="category.php?category=tv" class="swiper-slide slide">
+            <a href="category.php?category=Notebooks" class="swiper-slide slide">
             <i class="fa-solid fa-book-open fa-9x"></i>
                <h3>Notebooks</h3>
             </a>
 
-            <a href="category.php?category=camera" class="swiper-slide slide">
+            <a href="category.php?category=Novels" class="swiper-slide slide">
             <i class="fa-solid fa-book-bookmark fa-9x"></i>
                <h3>Novels</h3>
             </a>
 
-            <a href="category.php?category=mouse" class="swiper-slide slide">
+            <a href="category.php?category=Art and Crafts" class="swiper-slide slide">
             <i class="fa-solid fa-pen-ruler fa-9x"></i>
                <h3>Art and Crafts</h3>
             </a>
 
-            <a href="category.php?category=fridge" class="swiper-slide slide">
+            <a href="category.php?category=Batch Shirts" class="swiper-slide slide">
             <i class="fa-solid fa-shirt fa-9x"></i>
                <h3>Batch Shirts</h3>
             </a>
 
-            <a href="category.php?category=washing" class="swiper-slide slide">
+            <a href="category.php?category=Course Material" class="swiper-slide slide">
             <i class="fa-solid fa-swatchbook fa-9x"></i>
                <h3>Course Material</h3>
             </a>
