@@ -38,3 +38,8 @@ buyer.
 ![screenshot](https://github.com/sidramwaseem/Nedian-Nexus/blob/main/screenshots/HomePage.png?raw=true)
 ![screenshot](https://github.com/sidramwaseem/Nedian-Nexus/blob/main/screenshots/aboutUs.png?raw=true)
 ![screenshot](https://github.com/sidramwaseem/Nedian-Nexus/blob/main/screenshots/quickView.png?raw=true)
+
+## Contact Me
+- LinkedIn - [sidramwaseem](https://www.linkedin.com/in/sidramwaseem/)
+- Twitter - [sidramwaseem](https://www.twitter.com/sidramwaseem)
+- Instagram - [sidramwaseem](https://www.instagram.com/sidramwaseem)
