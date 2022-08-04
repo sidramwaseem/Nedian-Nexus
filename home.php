@@ -50,6 +50,9 @@ include 'wishlist_cart.php';
                      <h3>Creative Products</h3>
                      <a href="shop.php" class="btn">shop now</a>
                   </div>
+                  <div class="image">
+                     <img src="./images/creativity.png" alt="creativity image">
+                  </div>
                </div>
 
                <div class="swiper-slide slide">
@@ -57,12 +60,18 @@ include 'wishlist_cart.php';
                      <h3>Suitable Discounts</h3>
                      <a href="shop.php" class="btn">shop now</a>
                   </div>
+                  <div class="image">
+                     <img src="./images/discount.png" alt="creativity image">
+                  </div>
                </div>
 
                <div class="swiper-slide slide">
                   <div class="content">
                      <h3>Personalization Is What We Do!</h3>
                      <a href="shop.php" class="btn">shop now</a>
+                  </div>
+                  <div class="image">
+                     <img src="./images/customization.png" alt="creativity image">
                   </div>
                </div>
 
